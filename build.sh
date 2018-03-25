@@ -1,1 +1,1 @@
-go build ./cmd/main.go -o bin/application
+go build -o bin/application ./cmd/main.go

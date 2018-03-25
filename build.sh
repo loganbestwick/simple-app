@@ -1,0 +1,1 @@
+go build -o application -v application
